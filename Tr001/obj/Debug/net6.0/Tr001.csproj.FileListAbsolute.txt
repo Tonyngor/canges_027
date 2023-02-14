@@ -1,0 +1,15 @@
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\bin\Debug\net6.0\Tr001.exe
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\bin\Debug\net6.0\Tr001.deps.json
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\bin\Debug\net6.0\Tr001.runtimeconfig.json
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\bin\Debug\net6.0\Tr001.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\bin\Debug\net6.0\Tr001.pdb
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.csproj.AssemblyReference.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.AssemblyInfoInputs.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.AssemblyInfo.cs
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.csproj.CoreCompileInputs.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\refint\Tr001.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.pdb
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\Tr001.genruntimeconfig.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr001\obj\Debug\net6.0\ref\Tr001.dll
