@@ -4,8 +4,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        // Напишите программу, которая принимает на вход число (N) 
-        // и выдаёт таблицу кубов чисел от 1 до N.
         Console.WriteLine("Введите положительное число");
         int n = Convert.ToInt32(Console.ReadLine());
         int value = 0;

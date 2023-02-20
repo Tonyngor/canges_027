@@ -1,9 +1,9 @@
-﻿internal class Program
+﻿// Напишите программу, которая принимает на вход координаты двух точек
+// и находит расстояние между ними в 3D пространстве.
+internal class Program
 {
     private static void Main(string[] args)
     {
-        // Напишите программу, которая принимает на вход координаты двух точек
-        // и находит расстояние между ними в 3D пространстве.
         Console.WriteLine("Введите X1: ");
         double x1 = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Введите y1: ");

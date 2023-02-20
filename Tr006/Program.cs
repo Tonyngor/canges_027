@@ -1,9 +1,9 @@
-﻿internal class Program
+﻿// Напишите программу, которая принимает на вход пятизначное число и проверяет, 
+// является ли оно палиндромом.
+internal class Program
 {
     private static void Main(string[] args)
     {
-        // Напишите программу, которая принимает на вход пятизначное число и проверяет, 
-        // является ли оно палиндромом.
         Console.WriteLine("Введите пятизначное число:");
         int abcde = Convert.ToInt32(Console.ReadLine());
         int value = abcde;
