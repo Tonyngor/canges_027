@@ -57,6 +57,6 @@ for (x = 2; x < n; x++)
         }
     }
     j = myArray[x];
-    result = max - min;
+    result = (max) - (min);
 }
 Console.WriteLine("Разница между максимальным и минимальным элементом: " + result);
