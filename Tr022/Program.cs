@@ -27,20 +27,21 @@
         }
         int[,] matrix = new int[m, n];
         PrintArray(matrix);
-        int sumcolumn = 0;
-        int numbercjlumn = 0;
+        double column = 0;
+        int numbercolumn = 0;
         for (int j = 0; j < n; j++)
 
         {
-            sumcolumn = 0;
-            numbercjlumn++;
+            column = 0;
+            numbercolumn++;
             for (int i = 0; i < m; i++)
             {
 
-                sumcolumn = sumcolumn + matrix[i, j];
+                column = column + matrix[i, j];
             }
-            Console.WriteLine("Сумма столбца № " + numbercjlumn + ": ");
-            Console.WriteLine(sumcolumn);
+                column = column / m;
+            Console.WriteLine("Среднее арифметическое столбца № " + numbercolumn + ": ");
+            Console.WriteLine(column);
         }
     }
 }
