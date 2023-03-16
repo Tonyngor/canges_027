@@ -4,12 +4,12 @@
 void printNumbers()
 {
     Console.WriteLine("Задайте натуральное число N: ");
-    int n = Convert.ToInt32(Console.ReadLine());
+    int numberN = Convert.ToInt32(Console.ReadLine());
     Console.WriteLine("Натуральные числа от N до 1:");
-    while (n > 0)
+    while (numberN > 0)
     {
-        Console.Write($"{n}, ");
-        n = n - 1;
+        Console.Write($"{numberN}, ");
+        numberN = numberN - 1;
     }
 }
 printNumbers();
