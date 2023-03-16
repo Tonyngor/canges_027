@@ -1,0 +1,15 @@
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\bin\Debug\net6.0\Tr025.exe
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\bin\Debug\net6.0\Tr025.deps.json
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\bin\Debug\net6.0\Tr025.runtimeconfig.json
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\bin\Debug\net6.0\Tr025.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\bin\Debug\net6.0\Tr025.pdb
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.csproj.AssemblyReference.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.AssemblyInfoInputs.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.AssemblyInfo.cs
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.csproj.CoreCompileInputs.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\refint\Tr025.dll
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.pdb
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\Tr025.genruntimeconfig.cache
+C:\Users\98402\OneDrive\Рабочий стол\Тренировка\Tr025\obj\Debug\net6.0\ref\Tr025.dll
